@@ -81,8 +81,8 @@ endmodule<br>
 <br>
 <br>
 
-Developed by: KEERTHI VASAN A<br>
-RegisterNumber: 212222240048<br>
+Developed by:MURALI S <br>
+RegisterNumber: 212222230088
 
  
 **Logic symbol & Truthtable**
